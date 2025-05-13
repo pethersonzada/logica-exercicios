@@ -1,6 +1,6 @@
 ## 🧠 Lógica de Programação em Python
 
-Exercícios da faculdade de Análise e Desenvolvimento de Sistemas (1 Período na UNINASSAU)
+Exercícios da faculdade de Análise e Desenvolvimento de Sistemas (1º Período na UNINASSAU)
 
 ### Objetivo
 
