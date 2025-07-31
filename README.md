@@ -1,7 +1,5 @@
 ## 🧠 Lógica de Programação em Python
 
-Exercícios da faculdade de Análise e Desenvolvimento de Sistemas (1º Período na UNINASSAU)
-
 ### Objetivo
 
 O objetivo desse repositório é praticar a lógica de programação com exercícios básicos e simples.
